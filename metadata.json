@@ -1,0 +1,7 @@
+{
+  "name": "DermaSight AI",
+  "description": "An advanced AI Dermatology Assistant that analyzes skin images to identify possible diseases, providing distinct dashboards for patients and doctors.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
